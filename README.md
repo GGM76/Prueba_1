@@ -1,10 +1,12 @@
+<<<<<<< HEAD
+
 # EVALUACIÓN TÉCNICA NUXIBA
 
 Prueba: **DESARROLLADOR JR**
 
 Deadline: **1 día**
 
-Nombre: Gabriel Garcia
+Nombre:
 
 ---
 
@@ -57,4 +59,8 @@ Objeto que espera el servidor para guardar la nueva tarea:
 
 Si tienes alguna duda sobre la evaluación puedes mandar un correo electrónico a [desarrollo@nuxiba.com](mailto:desarrollo@nuxiba.com?subject=Dudas%20sobre%20evaluación%20técnica)
 
-Manda la liga de tu repositorio público a [talento@nuxiba.com](mailto:talento@nuxiba.com?subject=[EvaluaciónDesarrollo]%20Este%20es%20mi%20repositorio)
+# Manda la liga de tu repositorio público a [talento@nuxiba.com](mailto:talento@nuxiba.com?subject=[EvaluaciónDesarrollo]%20Este%20es%20mi%20repositorio)
+
+# Prueba_1
+
+> > > > > > > 79e867aa73dd13a6ceb9b380f9cd35f8722715db
